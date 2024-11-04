@@ -2,6 +2,7 @@
 
 - **Research Advisor**: Prof. Sayed Chhattan Shah
 - **Research Duration**: September 1, 2022 - Feburary 28, 2023
+- **Keyword**: Traffic Prediction, Machine Learning, Network Management, IoT
 
 
 ## Abstract
